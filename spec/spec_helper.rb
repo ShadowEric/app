@@ -48,4 +48,5 @@ Spork.prefork do
 end
 
 Spork.each_run do
+  # This code will be run each time I run my specs.
 end
